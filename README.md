@@ -1,5 +1,5 @@
 # Simple Gulp Static Website
-A simple boilerplate for creating static websites, e.g. for rapid in-browser prototyping. Provided as is.
+An extremely simple boilerplate for creating static websites, e.g. for rapid in-browser prototyping. It uses Gulp and BrowserSync.
 
 ## Development
 Run the start script, as shown below. Files are found in `./src` and are watched for changes. Output is found in `./_dist`. Navigate your favourite browser to `http://localhost:3000`. The page shown will reload automatically when changes are detected.
