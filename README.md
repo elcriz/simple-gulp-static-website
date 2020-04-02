@@ -18,3 +18,6 @@ $npm run build
 
 ## Configuration
 Configuration can be found in `./config.js`.
+
+## License
+[MIT](LICENSE.md)
