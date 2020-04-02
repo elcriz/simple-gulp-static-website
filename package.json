@@ -1,9 +1,9 @@
 {
   "name": "simple-gulp-static-website",
   "version": "1.0.0",
-  "description": "A simple boilerplate static website, for simple prototyping",
+  "description": "A simple boilerplate static website, for rapid in-browser prototyping",
   "author": "Christiaan Hemerik",
-  "license": "ISC",
+  "license": "MIT",
   "scripts": {
     "build": "clear && gulp build",
     "start": "clear && gulp watch"
