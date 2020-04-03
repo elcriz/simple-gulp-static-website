@@ -33,7 +33,7 @@ function images() {
 
 function css() {
     return gulp
-        .src(`${config.paths.src}scss/**/*.scss`)
+        .src(`${config.paths.src}scss/main.scss`)
         .pipe(plumber())
         .pipe(sass(config.sass))
         .pipe(gulp.dest(`${config.paths.dist}assets/css`))
